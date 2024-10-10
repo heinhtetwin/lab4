@@ -1,8 +1,8 @@
 {
-  "name": "Solar System",
-  "version": "6.7.6",
-  "author": "Siddharth Barahalikar <barahalikar.siddharth@gmail.com>",
-  "homepage": "https://www.linkedin.com/in/barahalikar-siddharth/",
+  "name": "@heinhtetwin/lab4",
+  "version": "7.7.7",
+  "author": "Hein Htet Win <heinhtetwin386@gmail.com>",
+  "homepage": "https://www.linkedin.com/in/hein-htet-win",
   "license": "MIT",
   "scripts": {
     "start": "node app.js",
